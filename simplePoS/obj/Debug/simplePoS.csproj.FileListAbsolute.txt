@@ -1,0 +1,12 @@
+C:\Users\yxian\Desktop\source code\simplePoS\bin\Debug\simplePoS.exe
+C:\Users\yxian\Desktop\source code\simplePoS\bin\Debug\simplePoS.pdb
+C:\Users\yxian\Desktop\source code\simplePoS\obj\Debug\simplePoS.csprojResolveAssemblyReference.cache
+C:\Users\yxian\Desktop\source code\simplePoS\obj\Debug\simplePoS.csproj.CoreCompileInputs.cache
+C:\Users\yxian\Desktop\source code\simplePoS\obj\Debug\simplePoS.exe
+C:\Users\yxian\Desktop\source code\simplePoS\obj\Debug\simplePoS.pdb
+D:\course\毕设相关\source code\simplePoS\bin\Debug\simplePoS.exe
+D:\course\毕设相关\source code\simplePoS\bin\Debug\simplePoS.pdb
+D:\course\毕设相关\source code\simplePoS\obj\Debug\simplePoS.csprojResolveAssemblyReference.cache
+D:\course\毕设相关\source code\simplePoS\obj\Debug\simplePoS.csproj.CoreCompileInputs.cache
+D:\course\毕设相关\source code\simplePoS\obj\Debug\simplePoS.exe
+D:\course\毕设相关\source code\simplePoS\obj\Debug\simplePoS.pdb
